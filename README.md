@@ -8,4 +8,6 @@ Write A is an app that can write a lot of "A"s. When you start the app, just typ
 **EchoMore**\
 EchoMore is really just a copy of the echo command but you need to enter what you want to echo after you start the program (it doesn't supports options).\
 **WindowsRapportCreator**\
-WindowsRapportCreator is an app that can create a rapport about your computer thanks to the info that you will enter in the app. You just have yo awanser the questions in the app, and the rapport will be automatically generated based on your awansers.
+WindowsRapportCreator is an app that can create a rapport about your computer thanks to the info that you will enter in the app. You just have yo awanser the questions in the app, and the rapport will be automatically generated based on your awansers.\
+**GenBox**\
+Genbox is an app that can generate ASCII boxes aroud a text. Enter the text that you want to put in the box, and the box will be generated with the text inside. You can also choose to generate a c++ code.
