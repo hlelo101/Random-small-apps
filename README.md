@@ -6,4 +6,6 @@ This app is an app that allows you to continue to increment a variable for no re
 **Write A**\
 Write A is an app that can write a lot of "A"s. When you start the app, just type the numbers of A that you want to write, and then you can let the app write the "A"s for you.\
 **EchoMore**\
-EchoMore is really just a copy of the echo command but you need to enter what you want to echo after you start the program (it doesn't supports options).
+EchoMore is really just a copy of the echo command but you need to enter what you want to echo after you start the program (it doesn't supports options).\
+**WindowsRapportCreator**\
+WindowsRapportCreator is an app that can create a rapport about your computer thanks to the info that you will enter in the app. You just have yo awanser the questions in the app, and the rapport will be automatically generated based on your awansers.
