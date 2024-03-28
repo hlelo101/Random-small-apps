@@ -10,4 +10,6 @@ EchoMore is really just a copy of the echo command but you need to enter what yo
 **WindowsRapportCreator**\
 WindowsRapportCreator is an app that can create a rapport about your computer thanks to the info that you will enter in the app. You just have yo awanser the questions in the app, and the rapport will be automatically generated based on your awansers.\
 **GenBox**\
-Genbox is an app that can generate ASCII boxes aroud a text. Enter the text that you want to put in the box, and the box will be generated with the text inside. You can also choose to generate a c++ code.
+Genbox is an app that can generate ASCII boxes aroud a text. Enter the text that you want to put in the box, and the box will be generated with the text inside. You can also choose to generate a c++ code.\
+**FriedBeans**\
+In FriedBeans, you can choose if you want normal beans or fried beans. Then, the app will judge you.
