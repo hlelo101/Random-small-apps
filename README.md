@@ -12,4 +12,6 @@ WindowsRapportCreator is an app that can create a rapport about your computer th
 **GenBox**\
 Genbox is an app that can generate ASCII boxes aroud a text. Enter the text that you want to put in the box, and the box will be generated with the text inside. You can also choose to generate a c++ code.\
 **FriedBeans**\
-In FriedBeans, you can choose if you want normal beans or fried beans. Then, the app will judge you.
+In FriedBeans, you can choose if you want normal beans or fried beans. Then, the app will judge you.\
+**Quick player**\
+Quick Player is a minimalistic music player in the terminal. It lack a lot of features that you would find in other media players like pause/unpause, loop, etc, but it works and can read sounds.
