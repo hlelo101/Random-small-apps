@@ -21,3 +21,6 @@ In FriedBeans, you can choose if you want normal beans or fried beans. Then, the
 
 **Quick player**\
 Quick Player is a minimalistic music player in the terminal. It lack a lot of features that you would find in other media players like pause/unpause, loop, etc, but it works and can read sounds.
+
+**Replace**\
+Replace is an app that allows you to replace letters in a string.
